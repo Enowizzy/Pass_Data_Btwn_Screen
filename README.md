@@ -1,8 +1,19 @@
 # Pass_Data_Btwn_Screen
-Flutter application which pass data between screen
-All you need is ide example Android studio or VS code
-Android SDK 12 with API 31
-That's it for today guys enjoy!
+# Flutter application which pass data between screen
+Learn Flutter
+
+How to run the project
+1. Download the project or clone repository, extract files and move inside project folder, and do the following
+2. Download and install ide like Android studio or VS code on your computer
+3. Open this project by android studio
+4. Download flutter plugins
+5. Download Android SDK 12 with API 31 on your android studio
+6. Run pub get in pubspac.yaml congiguration file in android studio
+7. Start AVD on your android studio
+8. Run the app
+
+
+That's it for today guys hope you enjoy and loved it!!
 
 #Lets_Us_Flutter
 
